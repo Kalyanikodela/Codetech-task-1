@@ -53,5 +53,6 @@ void loop() {
 }
 
 OUTPUT :
+
 ![image](https://github.com/user-attachments/assets/56d6ce84-c02e-473c-98a4-34324921469f)
 
